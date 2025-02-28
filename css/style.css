@@ -143,4 +143,16 @@ img {
         flex-direction: column;
         align-items: center;
     }
+
+    .lessons .col{
+        width: 80%;
+    }
+
+    .col:first-of-type, .steps .col:nth-child(2){
+        margin-bottom: 60px;
+    }
+
+    .steps .col {
+        width: 80%;
+    }
 }
