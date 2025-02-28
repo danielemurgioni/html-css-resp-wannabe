@@ -155,4 +155,36 @@ img {
     .steps .col {
         width: 80%;
     }
+
+    body{
+        background-color: #222222;
+    }
+
+    .site-header {
+        padding-top: 3rem;
+    }
+
+    .lessons{
+        padding-bottom: 3rem;
+    }
+
+    .steps{
+        margin: 0;
+    }
+    
+    h1, .site-header{
+        margin: 0;
+    }
+
+    .site-header, .lessons{
+        background-color: #232946;
+    }
+
+    .why-us .col-left, .why-us .col-right{
+        width: 80%; 
+    }
+
+    .why-us h2{
+        margin-top: 3rem;
+    }
 }
